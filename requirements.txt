@@ -1,6 +1,6 @@
 jupyter
 holoviews
-dask
+dask[dataframe]
 datashader
 pandas
 tkfilebrowser
