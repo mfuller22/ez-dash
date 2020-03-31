@@ -7,8 +7,6 @@ panel
 param
 numpy
 matplotlib
-json
-
 io
 datetime
 holoviews
