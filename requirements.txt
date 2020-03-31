@@ -6,7 +6,6 @@ tkfilebrowser
 panel
 param
 numpy
-os
 re
 sys
 time
