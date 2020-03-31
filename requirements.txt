@@ -7,7 +7,6 @@ panel
 param
 numpy
 matplotlib
-base64
 json
 
 io
