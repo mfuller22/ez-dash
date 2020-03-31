@@ -19,5 +19,5 @@ datetime
 holoviews
 holoviews
 holoviews
-datashader.
+datashader
 bokeh
