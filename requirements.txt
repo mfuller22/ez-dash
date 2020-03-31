@@ -3,7 +3,7 @@ holoviews
 dask[dataframe]
 datashader
 pandas
-panel=0.9.3
+panel==0.9.3
 param
 numpy
 matplotlib
