@@ -1,5 +1,5 @@
 holoviews
-dask.dataframe
+dask
 datashader
 pandas
 tkfilebrowser
