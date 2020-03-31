@@ -6,7 +6,6 @@ tkfilebrowser
 panel
 param
 numpy
-time
 matplotlib
 base64
 json
