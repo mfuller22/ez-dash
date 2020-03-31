@@ -6,7 +6,6 @@ tkfilebrowser
 panel
 param
 numpy
-sys
 time
 matplotlib
 base64
