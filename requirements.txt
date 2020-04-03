@@ -7,6 +7,7 @@ panel==0.9.3
 param
 numpy
 matplotlib
+sharepy
 datetime
 holoviews
 holoviews
