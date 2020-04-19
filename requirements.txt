@@ -9,8 +9,4 @@ numpy
 matplotlib
 sharepy
 datetime
-holoviews
-holoviews
-holoviews
-datashader
 bokeh==2.0.0
