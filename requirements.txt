@@ -10,6 +10,5 @@ matplotlib
 sharepy
 requests
 bs4
-urllib
 datetime
 bokeh==2.0.0
