@@ -12,3 +12,4 @@ requests
 bs4
 datetime
 bokeh==2.0.0
+xlrd
